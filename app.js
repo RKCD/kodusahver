@@ -3,7 +3,7 @@
  */
 
 // Google Apps Scripti veebirakenduse URL (vt README). Tühjana näidatakse vastus kopeeritava koodireana.
-const ENDPOINT = '';
+const ENDPOINT = 'https://script.google.com/macros/s/AKfycbw4D-nrevuQOe6v92QHe23iZWK1AgIF3Tp_9HNkvfkHzarcvGMTOhrYzp8fQlRFu_7J/exec';
 
 const VERSION = '1';
 const MAX_TEXT = 140;
